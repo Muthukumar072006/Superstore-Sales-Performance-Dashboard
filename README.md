@@ -6,7 +6,7 @@ A comprehensive Power BI dashboard designed to analyze retail sales performance,
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Dashboard](dashboard.png)
+![Superstore Dashboard](Dashboard.png)
 
 ---
 
